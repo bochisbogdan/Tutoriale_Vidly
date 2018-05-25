@@ -131,3 +131,11 @@ C:\Users\bog\source\repos\Vidly\Vidly\obj\Debug\Vidly.Migrations.AddedGenreToMov
 C:\Users\bog\source\repos\Vidly\Vidly\obj\Debug\Vidly.Migrations.AddedStocNumberInMovies.resources
 C:\Users\bog\source\repos\Vidly\Vidly\obj\Debug\Vidly.Migrations.AddedGenre.resources
 C:\Users\bog\source\repos\Vidly\Vidly\obj\Debug\Vidly.Migrations.UpdateCustomers.resources
+C:\Users\bog\source\repos\Vidly\Vidly\bin\System.Net.Http.Formatting.dll
+C:\Users\bog\source\repos\Vidly\Vidly\bin\System.Web.Http.dll
+C:\Users\bog\source\repos\Vidly\Vidly\bin\System.Web.Http.WebHost.dll
+C:\Users\bog\source\repos\Vidly\Vidly\bin\System.Net.Http.Formatting.xml
+C:\Users\bog\source\repos\Vidly\Vidly\bin\System.Web.Http.xml
+C:\Users\bog\source\repos\Vidly\Vidly\bin\System.Web.Http.WebHost.xml
+C:\Users\bog\source\repos\Vidly\Vidly\bin\AutoMapper.dll
+C:\Users\bog\source\repos\Vidly\Vidly\bin\AutoMapper.xml
